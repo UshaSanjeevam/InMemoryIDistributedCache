@@ -1,0 +1,14 @@
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.csprojAssemblyReference.cache
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.csproj.CoreCompileInputs.cache
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.RazorAssemblyInfo.cache
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.RazorAssemblyInfo.cs
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.AssemblyInfoInputs.cache
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.AssemblyInfo.cs
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\bin\Debug\netcoreapp2.1\InMemoryIDistributedCache.deps.json
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\bin\Debug\netcoreapp2.1\InMemoryIDistributedCache.runtimeconfig.json
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\bin\Debug\netcoreapp2.1\InMemoryIDistributedCache.runtimeconfig.dev.json
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\bin\Debug\netcoreapp2.1\InMemoryIDistributedCache.dll
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\bin\Debug\netcoreapp2.1\InMemoryIDistributedCache.pdb
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.RazorTargetAssemblyInfo.cache
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.dll
+D:\R&D\InMemoryIDistributedCache\InMemoryIDistributedCache\obj\Debug\netcoreapp2.1\InMemoryIDistributedCache.pdb
